@@ -1,12 +1,14 @@
-# React + Vite
+# Atividade
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Seu objetivo agora é adicionar uma nova aba a esse site, utilizando React Router DOM, onde você irá fazer uma listagem.
+Se optar por manter o tema ciclismo, poderá fazer uma listagem de eventos de pedais acontecendo no estado ou projetos realizados pela associação, incluindi:
+- Foto do projeto/evento
+- Título
+- Descrição
+- Data/horário
 
-Currently, two official plugins are available:
+Pode utilizar, por exemplo, Grid para agrupar os componentes.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Além disso, deverá criar um Suspense ou Skeleton que será mostrado quando essa página demorar a carregar.
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Assim, teremos praticado: componentização, reaproveitamento de código, lazy loading, roteamento, estilização e performance.
